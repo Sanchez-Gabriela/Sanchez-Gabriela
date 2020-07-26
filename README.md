@@ -1,7 +1,5 @@
 
-- ⚡ Fun fact: ...
-
- ### Hi there :wave: 
+### Hi there :wave: 
 ---
 
 I'm Gaby--a Web Developer who enjoys creating applications from scratch and playing around with designs. At the moment I'm building a website for a small sound design company.
